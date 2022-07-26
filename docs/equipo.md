@@ -15,10 +15,10 @@
 + tengo 26 años soy de bogota,colombia
 + soy tecnico en sistemas tecnologo en informatica trabajo en la parte de soporte de la alcaldi de cajica entidad del estado ,experiencia dos años estudio sistemas actualemnte y una carrera de desarrollo de web full stack en digital house
 
-***Martin Heredia***
-    >Tengo 35 años de edad, vivo en la ciudad de Córdoba, Argentina
-    
-    >Hice 2 años de la carrera de Lic. en Administracion de Empresas, tengo experiencia en ventas (retail) de mas de 10 años y actualmente estoy estudiando la carrera de desarrollo Web Full Stack en Digital House.
++ ***Martin Heredia***
+    > Tengo 35 años de edad, vivo en la Ciudad de Córdoba, Argentina.
+
+    > Hice 2 años de la carrera de Lic. de Administración de Empresas, tengo experiencia de 10 años en ventas (retail), y actualmente estoy estudiando la carrera de desarrollo Web Full Stack en Digital House.
 + ***EJEMPLO 4***
     > Tengo ..........
 
